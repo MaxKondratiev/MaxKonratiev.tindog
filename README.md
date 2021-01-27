@@ -1,0 +1,2 @@
+# MaxKonratiev.tindog
+Bootstrap
